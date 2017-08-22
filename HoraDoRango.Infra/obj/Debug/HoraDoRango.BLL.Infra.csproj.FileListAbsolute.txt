@@ -1,0 +1,7 @@
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\bin\Debug\HoraDoRango.Infra.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\bin\Debug\HoraDoRango.Infra.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\bin\Debug\HoraDoRango.Entities.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\bin\Debug\HoraDoRango.Entities.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\obj\Debug\HoraDoRango.BLL.Infra.csprojResolveAssemblyReference.cache
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\obj\Debug\HoraDoRango.Infra.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Infra\obj\Debug\HoraDoRango.Infra.pdb

@@ -1,0 +1,14 @@
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\obj\Debug\HoraDoRango.DAL.csprojResolveAssemblyReference.cache
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.DAL.dll.config
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.DAL.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.DAL.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\EntityFramework.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\EntityFramework.SqlServer.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.DAL.Infra.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.Entities.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.DAL.Infra.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\HoraDoRango.Entities.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\EntityFramework.xml
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\bin\Debug\EntityFramework.SqlServer.xml
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\obj\Debug\HoraDoRango.DAL.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.DAL\obj\Debug\HoraDoRango.DAL.pdb

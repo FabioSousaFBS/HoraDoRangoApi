@@ -1,0 +1,4 @@
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Entities\bin\Debug\HoraDoRango.Entities.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Entities\bin\Debug\HoraDoRango.Entities.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Entities\obj\Debug\HoraDoRango.Entities.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Entities\obj\Debug\HoraDoRango.Entities.pdb

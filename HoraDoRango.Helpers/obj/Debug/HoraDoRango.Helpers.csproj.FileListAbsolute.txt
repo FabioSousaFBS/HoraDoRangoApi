@@ -1,0 +1,4 @@
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Helpers\bin\Debug\HoraDoRango.Helpers.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Helpers\bin\Debug\HoraDoRango.Helpers.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Helpers\obj\Debug\HoraDoRango.Helpers.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.Helpers\obj\Debug\HoraDoRango.Helpers.pdb

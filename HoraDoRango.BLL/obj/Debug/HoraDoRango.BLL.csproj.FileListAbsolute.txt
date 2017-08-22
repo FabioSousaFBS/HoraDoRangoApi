@@ -1,0 +1,16 @@
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.BLL.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.BLL.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.DAL.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.DAL.Infra.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.Entities.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.Infra.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\EntityFramework.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.DAL.Infra.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.DAL.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.DAL.dll.config
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.Entities.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\HoraDoRango.Infra.pdb
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\bin\Debug\EntityFramework.xml
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\obj\Debug\HoraDoRango.BLL.csprojResolveAssemblyReference.cache
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\obj\Debug\HoraDoRango.BLL.dll
+D:\PROJETOS\POSGRADUACAO\ARQUITETURA\HoraDoRango\HoraDoRango.BLL\obj\Debug\HoraDoRango.BLL.pdb
